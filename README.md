@@ -4,7 +4,8 @@ welcome to web cheese tool.This tool madede for ethical hacking and information 
 # Web-cheese
 Take webcam shots from target just sending a malicious link
 
-![image alt](https://github.com/user-attachments/assets/59bf040f-5d1f-4d4e-a28d-641901ac3f55)
+![image alt]![Screenshot_20241215-132103~2](https://github.com/user-attachments/assets/3b9fafd2-a62f-4fcd-9c21-8662180369e1)
+
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
