@@ -4,7 +4,7 @@ welcome to web cheese tool.This tool madede for ethical hacking and information 
 # Web-cheese
 Take webcam shots from target just sending a malicious link
 
-![image alt]![Screenshot_20241215-132103~2](https://github.com/user-attachments/assets/3b9fafd2-a62f-4fcd-9c21-8662180369e1)
+![Screenshot_20241215-132103~2](https://github.com/user-attachments/assets/3b9fafd2-a62f-4fcd-9c21-8662180369e1)
 
 
 # How it works?
