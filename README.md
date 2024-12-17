@@ -1,7 +1,7 @@
 # Hey There!
-welcome to web cheese tool.This tool madede for ethical hacking and information gathering 
+welcome to webcheese tool.This tool madede for ethical hacking and information gathering 
 
-# Web-cheese
+# Webcheese
 Take webcam shots from target just sending a malicious link
 
 ![Screenshot_20241215-132103~2](https://github.com/user-attachments/assets/3b9fafd2-a62f-4fcd-9c21-8662180369e1)
@@ -17,7 +17,7 @@ Take webcam shots from target just sending a malicious link
 
 </p>
 
-## installation (kali Linux/Termux):
+## installation kali Linux/Termux :
 
 ```
 
