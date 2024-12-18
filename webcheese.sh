@@ -7,19 +7,15 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
-printf "\e[1;92m                   _       
-                                  | |        | |
-                     __      _____| |__   ___| |__   ___  ___  ___  ___
-                     \ \ /\ / / _ \ '_ \ / __| '_ \ / _ \/ _ \/ __|/ _ \
-                      \ V  V /  __/ |_) | (__| | | |  __/  __/\__ \  __/
-                       \_/\_/ \___|_.__/ \___|_| |_|\___|\___||___/\___|     \e[0m\n"
-printf "\e[1;92m                                                             \e[0m\n"
-printf "\e[1;92m                                                             \e[0m\n"
-printf "\e[1;92m                                                             \e[0m\n"
-printf "\e[1;92m                                                             \e[0m\n"
-printf "\e[1;92m                                                             \e[0m\n"
-
-
+printf "\e[1;92m                              _                             \e[0m\n"   
+printf "\e[1;92m                             | |        | |                 \e[0m\n"
+printf "\e[1;92m     _       _  __      _____| |__   ___| |__   ___  ___    \e[0m\n"
+printf "\e[1;92m     \ \ /\ / / _ \ '_ \ / __| '_ \ / _ \/ _ \/ __|/ _ \    \e[0m\n"
+printf "\e[1;92m      \ V  V /  __/ |_) | (__| | | |  __/  __/\__ \  __/    \e[0m\n"
+printf "\e[1;92m       \_/\_/ \___|_.__/ \___|_| |_|\___|\___||___/\___|    \e[0m\n"
+printf "\e[1;92m                                                            \e[0m\n"
+printf "\e[1;92m                                                             
+                                    
 printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/webcheese\e[0m \n"
 
 printf "\n"
