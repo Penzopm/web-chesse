@@ -3,8 +3,9 @@ welcome to webcheese tool.This tool madede for ethical hacking and information g
 
 # Webcheese
 Take webcam shots from target just sending a malicious link
+![Picsart_24-12-19_15-23-54-951](https://github.com/user-attachments/assets/ba7fddc8-e8cf-4827-9f7a-b8ecdd8f4068)
 
-![Screenshot_20241215-132103~2](https://github.com/user-attachments/assets/3b9fafd2-a62f-4fcd-9c21-8662180369e1)
+
 
 
 # How it works?
