@@ -4,6 +4,7 @@
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
+
 banner() {
 
 printf "\e[1;92m               _          _                          \e[0m\n"
