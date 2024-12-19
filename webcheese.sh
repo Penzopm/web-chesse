@@ -232,5 +232,6 @@ checkfound
 
 }
 
+banner
 dependencies
 start1
