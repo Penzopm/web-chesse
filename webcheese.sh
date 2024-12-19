@@ -19,6 +19,7 @@ printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/webcheese\e[0m \n"
 
 printf "\n"
 
+}
 
 stop() {
 
