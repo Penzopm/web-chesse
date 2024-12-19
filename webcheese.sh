@@ -3,7 +3,7 @@
 # coded by: github.com/thelinuxchoice/webcheese 
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
-
+cwd=`pwd`
 # Logo 
 logo="    
 ${red}                 _          _
