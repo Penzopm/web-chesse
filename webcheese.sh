@@ -3,7 +3,6 @@
 # coded by: github.com/thelinuxchoice/webcheese 
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
-trap 'printf "\n";stop' 2
 
 # Logo 
 logo="    
@@ -13,11 +12,7 @@ ${red}   __      _____| |__   ___| |__   ___  ___  ___  ___
 ${red}   \ \ /\ / / _ \ '_ \ / __| '_ \ / _ \/ _ \/ __|/ _ \
 ${red}    \ V  V /  __/ |_) | (__| | | |  __/  __/\__ \  __/
 ${red}     \_/\_/ \___|_.__/ \___|_| |_|\___|\___||___/\___|
-${green}                                 by penzo pm 
-
-
-
-
+${green}                                 by penzo pm \n"
 
 
 }
